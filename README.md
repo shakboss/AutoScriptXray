@@ -1,6 +1,5 @@
 
 ## Script Information Features
-- Ubuntu 20.04.5 LTS x86_64 | Only
 - CPU MIN 1 CORE
 - RAM 1GB
 - VMESS WS TLS 443
