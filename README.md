@@ -12,7 +12,7 @@
 - TROJAN/TROJAN GO GRPC 443
 - SHADOWSOCKS WS 443
 - SHADOWSOCKS GRPC 443
-- IPv6 : [OFF]
+- IPv6 : [ON]
 - Timezone : Asia/Jakarta (GMT +7)
  
 <h3 align="center">Installation</h3>
