@@ -44,8 +44,3 @@ cd
 ```html
 rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
 ```
-
-<h3 align="center">Additional Info</h3>
-Recommended OS :
-
-- Ubuntu 18.04 & 20.04 x64 bit
