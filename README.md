@@ -18,28 +18,8 @@
 <h3 align="center">Installation</h3>
 
 ## 1.
-<img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
-
-  ```html
-apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
-```
-
-## 2.0
-<img src="https://img.shields.io/badge/Login_Root%20VPS-green">
-
-* Login ke VPS dan Aktifkan Root Sementara
-
-  
-```html
-sudo su
-cd
-cd
-```
-
-### 3.
 
   <img src="https://img.shields.io/badge/Install_Layanan_Xray%20-green">
-
 
 ```html
 rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
