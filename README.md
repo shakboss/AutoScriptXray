@@ -48,12 +48,10 @@ rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt 
 </p>
 <div height='45' align="center">
 <h2>DAFTAR IP VPS <br>
-
 - Installasi Minimal Donasi Rp20.000 / (1 IP)
 - Jika kalian ingin coba triall hubungi admin !
 - Disini tidak ada unsur paksaan mau install
 Terimakasih atas pengertiannya !
-
 
 <a href="https://github.com/firdaus-rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/firdaus2212"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
