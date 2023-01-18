@@ -1,5 +1,6 @@
 
 <h3 align="center">Features Script</h3>
+
 - CPU MIN 1 CORE
 - RAM 1GB
 - VMESS WS TLS 443
@@ -16,6 +17,7 @@
  
 
 <h3 align="center">Syarat Insttall</h3>
+
 - VPS Harus Clean Bersih Dari Script Lain
 - Punya domain yang udah dipointing (Kalo Gapunya Chat Telegramku)
 
