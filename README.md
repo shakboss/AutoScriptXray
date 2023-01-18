@@ -16,6 +16,14 @@
 - Timezone : Asia/Jakarta (GMT +7)
  
 
+<h3 align="center">Settings Cloudflare</h3>
+
+- TLS/SSL      [FULL]
+- Always HTTPS [OFF]
+- WebSocket    [ON]
+- gRPC         [ON]
+
+
 <h3 align="center">Syarat Insttall</h3>
 
 - VPS Harus Clean Bersih Dari Script Lain
