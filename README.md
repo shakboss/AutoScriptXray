@@ -36,7 +36,7 @@
 <h3 align="center">Syarat Insttall</h3>
 
 - VPS Harus Clean Bersih Dari Script Lain
-- Punya domain yang udah dipointing (Kalo Gapunya Chat Telegramku)
+- Punya domain yang udah dipointing (Kalo Gapunya Chat admin!)
 
 ## 1.
 
