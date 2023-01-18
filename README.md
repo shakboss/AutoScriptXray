@@ -1,4 +1,7 @@
-
+<p align="center">
+<img height=21 src="https://komarev.com/ghpvc/?username=firdaus-rx">
+</p>
+</br>
   <h3 align="center">Supported Linux Distribution</h3>
  </p> 
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
@@ -43,9 +46,6 @@
 rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
 ```
 
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=firdaus-rx">
-</p>
 <div height='45' align="center">
 <h2>DAFTAR IP VPS </h2>
 </div>
