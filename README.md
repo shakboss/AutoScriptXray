@@ -47,7 +47,7 @@ rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt 
 <img height=21 src="https://komarev.com/ghpvc/?username=firdaus-rx">
 </p>
 <div height='45' align="center">
-<h2>DAFTAR IP VPS <br>
+<h2>DAFTAR IP VPS </h2>
 
 - Installasi Minimal Donasi Rp20.000 / (1 IP)
 - Jika kalian ingin coba triall hubungi admin !
