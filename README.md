@@ -29,7 +29,7 @@
 rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
 ```
 
-<h3 align="center">Register IP VPS</h3>
+<h3 align="center">Daftar IP</h3>
 
 <p align="center">
 <a href="https://github.com/firdaus-rx"><img title="Github" src="https://img.shields.io/badge/Firdaus-brightgreen?style=for-the-badge&logo=github"></a>
