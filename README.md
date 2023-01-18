@@ -55,6 +55,8 @@ rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt 
 - Disini tidak ada unsur paksaan mau install
 - Terimakasih atas pengertiannya !
 
+<div height='45' align="center">
 <a href="https://github.com/firdaus-rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/firdaus2212"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 <a href="https://t.me/firdaus_rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
+</div>
