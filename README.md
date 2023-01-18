@@ -1,4 +1,10 @@
 
+  <h3 align="center">Supported Linux Distribution</h3>
+ </p> 
+<p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
+<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
+</p>
+
 <h3 align="center">Features Script</h3>
 
 - CPU MIN 1 CORE
@@ -39,7 +45,6 @@ rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt 
 
 <h3 align="center">Daftar IP</h3>
 
-<p align="center">
-<a href="https://github.com/firdaus-rx"><img title="Github" src="https://img.shields.io/badge/Firdaus-brightgreen?style=for-the-badge&logo=github"></a>
-  <p align="center">
-<a href="https://t.me/firdaus_rx"><img title="Github" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://github.com/firdaus-rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/firdaus2212"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://t.me/firdaus_rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
