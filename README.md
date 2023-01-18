@@ -43,8 +43,11 @@
 rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
 ```
 
-<h3 align="center">Daftar IP</h3>
-
+<p align="center">
+<img height=21 src="https://komarev.com/ghpvc/?username=firdaus-rx">
+</p>
+<div height='45' align="center">
+<h2>DAFTAR IP VPS <br>
 <a href="https://github.com/firdaus-rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/firdaus2212"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 <a href="https://t.me/firdaus_rx"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a>
