@@ -48,6 +48,7 @@ rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt 
 </p>
 <div height='45' align="center">
 <h2>DAFTAR IP VPS </h2>
+</div>
 
 - Installasi Minimal Donasi Rp20.000 / (1 IP)
 - Jika kalian ingin coba triall hubungi admin !
