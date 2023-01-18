@@ -20,8 +20,8 @@
 
 ## Syarat Insttallnya
 
-### VPS Harus Clean Bersih Dari Script Lain
-### Punya domain yang udah dipointing (Kalo Gapunya Chat Telegramku)
+## VPS Harus Clean Bersih Dari Script Lain
+## Punya domain yang udah dipointing (Kalo Gapunya Chat Telegramku)
 
 ## 1.
 
