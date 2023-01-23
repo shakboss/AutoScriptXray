@@ -8,6 +8,27 @@
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=Lts&color=red">
 </p>
 
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Home Page : My Github Web" />
+  </head>
+
+  <body>
+   <p align="center">
+    INSTALLER XRAY TROJAN SS VMESS VLESS<br>
+    Rencong VPN Store<br>
+      </p><hr><p align="center">
+  <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" width="300" height="300" alt="hi" class="inline"/><br />
+  <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" width="600" height="300" alt="hi" class="inline"/><br />
+    </p>
+  </body>
+</html>
+
 <h3 align="center">Features Script</h3>
 
 - CPU MIN 1 CORE
