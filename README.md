@@ -23,8 +23,8 @@
     INSTALLER XRAY TROJAN VLESS VMESS SHADOWSHOCKS<br>
     Rencong VPN Store<br>
       </p><hr><p align="center">
-      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/menu.png" width="500" height="500" alt="hi" class="inline"/><br />
-      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/running.png" width="500" height="500" alt="hi" class="inline"/><br />
+      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/menu.png" width="400" height="400" alt="hi" class="inline"/><br />
+      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/running.png" width="400" height="400" alt="hi" class="inline"/><br />
   </p>
   </body>
 </html>
