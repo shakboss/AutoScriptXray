@@ -23,8 +23,8 @@
     INSTALLER XRAY TROJAN VLESS VMESS SHADOWSHOCKS<br>
     Rencong VPN Store<br>
       </p><hr><p align="center">
-      <img src="https://github.com/firdaus-rx/xray/raw/main/img/" width="300" height="300" alt="hi" class="inline"/><br />
-      <img src="https://github.com/firdaus-rx/xray/raw/main/img/" width="600" height="300" alt="hi" class="inline"/><br />
+      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/" width="300" height="300" alt="hi" class="inline"/><br />
+      <img src="https://github.com/firdaus-rx/AutoScriptXray/raw/main/img/" width="600" height="300" alt="hi" class="inline"/><br />
   </p>
   </body>
 </html>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Install_Layanan_Xray%20-green">
 
 ```html
-rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/xray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
+rm -rf setup.sh && apt-get update && apt-get upgrade && apt install curl && apt install screen && wget -q https://raw.githubusercontent.com/firdaus-rx/AutoScriptXray/main/setup.sh && chmod +x setup.sh && screen -S Xray ./setup.sh
 ```
 
 <div height='45' align="center">
