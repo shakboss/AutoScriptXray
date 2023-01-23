@@ -19,15 +19,13 @@
   </head>
 
   <body>
-   <p align="center">
-    INSTALLER XRAY TROJAN SS VMESS VLESS<br>
+  <p align="center">
+    INSTALLER XRAY TROJAN VLESS VMESS SHADOWSHOCKS<br>
     Rencong VPN Store<br>
-   </p>
-    <p align="center">
-      <h3 >Views Script</h3>
-        <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" alt="menu-" width="300" height="300" alt="hi" class="inline"/><br />
-        <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" alt="running" width="600" height="300" alt="hi" class="inline"/><br />
-    </p>
+      </p><hr><p align="center">
+      <img src="https://github.com/firdaus-rx/xray/raw/main/img/" width="300" height="300" alt="hi" class="inline"/><br />
+      <img src="https://github.com/firdaus-rx/xray/raw/main/img/" width="600" height="300" alt="hi" class="inline"/><br />
+  </p>
   </body>
 </html>
 
