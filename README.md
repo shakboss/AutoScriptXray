@@ -23,6 +23,8 @@
     INSTALLER XRAY TROJAN SS VMESS VLESS<br>
     Rencong VPN Store<br>
       </p><hr><p align="center">
+  <h3 align="center">Views Script</h3>
+
   <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" width="300" height="300" alt="hi" class="inline"/><br />
   <img src="https://github.com/firdaus-rx/xray/raw/main/img/.png" width="600" height="300" alt="hi" class="inline"/><br />
     </p>
