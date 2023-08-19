@@ -1,12 +1,13 @@
 
 ### INSTALL SCRIPT
-<pre><code>apt-get update && apt-get upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-rx/AutoScriptXray/main/setup && chmod +x setup && screen -S install ./setup</code></pre>
+<pre><code>apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-rx/AutoScriptXray/main/setup && chmod +x setup && screen -S install ./setup</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04
 
 ### PORT INFO
 ```
+- XRAY 81
 - TROJAN WS 443
 - TROJAN GRPC 443
 - SHADOWSOCKS WS 443
@@ -17,7 +18,6 @@
 - VMESS WS 443
 - VMESS GRPC 443
 - VMESS NONTLS 80
-- SLOWDNS 53, 5300
 ```
 
 ### SETTING CLOUDFLARE
