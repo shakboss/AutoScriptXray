@@ -1,6 +1,6 @@
 
 ### INSTALL SCRIPT
-<pre><code>apt install -y wget screen && wget -q https://raw.githubusercontent.com/firdaus-rx/AutoScriptXray/main/setup && chmod +x setup && screen -S install ./setup</code></pre>
+<pre><code>apt install -y wget screen && wget -q https://raw.githubusercontent.com/shakboss/AutoScriptXray/main/setup && chmod +x setup && screen -S install ./setup</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04
